@@ -57,8 +57,7 @@ Além de Tec, sou apaixonado por esporte.
              <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/xcode.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
              
 </p> -->
-
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+<br/><br/>
 
 <p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=tokyonight&show_icons=true" />
