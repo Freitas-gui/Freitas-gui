@@ -16,7 +16,6 @@ Besides Tec, I am passionate about the sport.
   </samp>
   <br/>
   <br/>
-  <br/>
 </p>
 
 
