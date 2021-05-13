@@ -1,8 +1,8 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Guilherme i'm brazilian!
 
 <p align="center" >
   <samp>
-    My name is Guilherme i'm brazilian. I have studied and worked with programming for more than 4 years, at the Universidade Federal do Espírito santo (UFES), in the Computer Engineering course and too in personal projects. I have programmed in several languages, but currently I have focused on web development and RESTful API.
+   I have studied and worked with programming for more than 4 years, at the Universidade Federal do Espírito santo (UFES), in the Computer Engineering course and too in personal projects. I have programmed in several languages, but currently I have focused on web development and RESTful API.
 </samp>
 <br/><br/>
 <samp>
@@ -39,7 +39,7 @@ Besides Tec, I am passionate about the sport.
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Working Today
-<div style=" display: flex; justify-content: space-between;">
+<p align="center">
    <img src="https://user-images.githubusercontent.com/38620899/118056560-8d130b80-b360-11eb-93ff-c2df0e33dbb3.png" height="35px" style="vertical-align:top margin: 50px" />
    <img src="https://user-images.githubusercontent.com/38620899/118056183-d6169000-b35f-11eb-88c4-bb20eb83f24d.png" height="35px" style="vertical-align:top margin: 50px" />
    <img src="https://user-images.githubusercontent.com/38620899/118056947-3fe36980-b361-11eb-9b0b-84d9aa36f5f2.png" height="35px" style="vertical-align:top margin: 50px" />
@@ -53,7 +53,7 @@ Besides Tec, I am passionate about the sport.
    
 
              
-</div> 
+</p>
 <br/><br/>
 
 <p align="right">
