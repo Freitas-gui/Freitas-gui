@@ -2,17 +2,17 @@
 
 <p align="center" >
   <samp>
-    Tenho estudado e trabalhado com programação a mais de 4 anos, dentro da Universidade Federal do Espírito santo (UFES), no curso de Engenharia da Computação, ou em projetos pessoais. Já programei em diversas linguagens, mas atualmente tenho focado em desenvolvimento web. Mais especificamente com PHP no back-end com o framework Laravel e no front-end com HTML5, CSS3 e JavaScript.
+    My name is Guilherme i'm brazilian. I have studied and worked with programming for more than 4 years, at the Universidade Federal do Espírito santo (UFES), in the Computer Engineering course and too in personal projects. I have programmed in several languages, but currently I have focused on web development and RESTful API.
 </samp>
 <br/><br/>
 <samp>
-Atualmente sou estagiário backend na https://uppersoft.com.br/ e participo ativamente no desenvolvimento de projetos reais.
+I am currently a backend intern at https://uppersoft.com.br/ and actively participate in the development of real projects.
 </samp>
 <br/><br/>
 <samp>
-Além disso, produzo conteúdos relacionados à tecnologia e disponibilizo no meu canal do YouTube: Programador Alternativo.
+In addition, I produce content related to technology and make it available on my YouTube channel: Programador Alternativo.
 <br/>
-Além de Tec, sou apaixonado por esporte.
+Besides Tec, I am passionate about the sport.
   </samp>
   <br/>
   <br/>
@@ -39,7 +39,7 @@ Além de Tec, sou apaixonado por esporte.
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Working Today
-<p align="center">
+<div style=" display: flex; justify-content: space-between;">
    <img src="https://user-images.githubusercontent.com/38620899/118056560-8d130b80-b360-11eb-93ff-c2df0e33dbb3.png" height="35px" style="vertical-align:top margin: 50px" />
    <img src="https://user-images.githubusercontent.com/38620899/118056183-d6169000-b35f-11eb-88c4-bb20eb83f24d.png" height="35px" style="vertical-align:top margin: 50px" />
    <img src="https://user-images.githubusercontent.com/38620899/118056947-3fe36980-b361-11eb-9b0b-84d9aa36f5f2.png" height="35px" style="vertical-align:top margin: 50px" />
@@ -53,7 +53,7 @@ Além de Tec, sou apaixonado por esporte.
    
 
              
-</p> 
+</div> 
 <br/><br/>
 
 <p align="right">
