@@ -11,8 +11,6 @@ I am currently a backend intern at https://uppersoft.com.br/ and actively partic
 <br/><br/>
 <samp>
 In addition, I produce content related to technology and make it available on my YouTube channel: Programador Alternativo.
-<br/>
-Besides Tec, I am passionate about the sport.
   </samp>
   <br/>
   <br/>
