@@ -38,7 +38,7 @@ Além de Tec, sou apaixonado por esporte.
   </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Working Today
 <p align="center">
    <img src="https://user-images.githubusercontent.com/38620899/118056560-8d130b80-b360-11eb-93ff-c2df0e33dbb3.png" height="35px" style="vertical-align:top margin: 50px" />
    <img src="https://user-images.githubusercontent.com/38620899/118056183-d6169000-b35f-11eb-88c4-bb20eb83f24d.png" height="35px" style="vertical-align:top margin: 50px" />
