@@ -37,20 +37,16 @@ In addition, I produce content related to technology and make it available on my
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Working Today
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/38620899/118056560-8d130b80-b360-11eb-93ff-c2df0e33dbb3.png" height="35px" style="vertical-align:top margin: 50px" />
-   <img src="https://user-images.githubusercontent.com/38620899/118056183-d6169000-b35f-11eb-88c4-bb20eb83f24d.png" height="35px" style="vertical-align:top margin: 50px" />
-   <img src="https://user-images.githubusercontent.com/38620899/118056947-3fe36980-b361-11eb-9b0b-84d9aa36f5f2.png" height="35px" style="vertical-align:top margin: 50px" />
-   <img src="https://user-images.githubusercontent.com/38620899/118057576-ab7a0680-b362-11eb-9ea5-044c4d0ab96e.png" height="35px" style="vertical-align:top margin: 50px" />
-   
-   <br/> 
-   
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin: 50px" />
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin: 50px" />
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin: 50px" />
-   
+   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://user-images.githubusercontent.com/38620899/118056560-8d130b80-b360-11eb-93ff-c2df0e33dbb3.png" height="35px" style="vertical-align:top margin: 50px" /></a>
+   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://user-images.githubusercontent.com/38620899/118056183-d6169000-b35f-11eb-88c4-bb20eb83f24d.png" height="35px" style="vertical-align:top margin: 50px" /></a>
+  <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://user-images.githubusercontent.com/38620899/118056947-3fe36980-b361-11eb-9b0b-84d9aa36f5f2.png" height="35px" style="vertical-align:top margin: 50px" /></a>
+  <a href="https://github.com/Freitas-gui?tab=repositories"> <img src="https://user-images.githubusercontent.com/38620899/118057576-ab7a0680-b362-11eb-9ea5-044c4d0ab96e.png" height="35px" style="vertical-align:top margin: 50px" /></a>
+  <br>
+   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" /></a>
+   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg"/></a>
+   <a href="https://github.com/Freitas-gui?tab=repositories"><img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" /></a>
+ </p>
 
-             
-</p>
 <br/><br/>
 
 <p align="right">
