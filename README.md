@@ -6,7 +6,7 @@
 </samp>
 <br/><br/>
 <samp>
-I am currently a backend intern at https://uppersoft.com.br/ and actively participate in the development of real projects.
+I am currently a backend intern at <a href="https://uppersoft.com.br/" target="_blank">Uppersoft</a> and actively participate in the development of real projects.
 </samp>
 <br/><br/>
 <samp>
