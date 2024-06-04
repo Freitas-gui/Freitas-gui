@@ -2,11 +2,11 @@
 
 <p align="center" >
   <samp>
-   I have studied and worked with programming for more than 4 years, at the Universidade Federal do Espírito santo (UFES), in the Computer Engineering course and too in personal projects. I have programmed in several languages, but currently I have focused on web development and RESTful API.
+   I have studied for 7 years and worked 4 years with programming, at the Universidade Federal do Espírito santo (UFES) in Computer Science course, e na empresa UpCities como backend e frontendin. I have programmed in several languages, but currently I have focused on PHP in web development and RESTful API.
 </samp>
 <br/><br/>
 <samp>
-I am currently a backend intern at <a target="_blank" rel="noopener noreferrer" href="https://uppersoft.com.br/">Uppersoft</a> and actively participate in the development of real projects.
+I am currently a backend intern at <a target="_blank" rel="noopener noreferrer" href="https://upcities.com.br/">UpCities</a> and actively participate in the development of real projects.
 </samp>
 <br/><br/>
 <samp>
