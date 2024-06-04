@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-   I have studied for 7 years and worked 4 years with programming, at the Universidade Federal do Espírito santo (UFES) in Computer Science course, e na empresa UpCities como backend e frontendin. I have programmed in several languages, but currently I have focused on PHP in web development and RESTful API.
+   I have studied for 7 years and worked 4 years with programming, studied at the Universidade Federal do Espírito santo (UFES) in Computer Science course, and worked on UpCities like a backend and frontend. I have programmed in several languages, but currently I have focused on PHP in web development and RESTful API.
 </samp>
 <br/><br/>
 <samp>
