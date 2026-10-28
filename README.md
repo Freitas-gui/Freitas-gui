@@ -27,9 +27,6 @@ In addition, I produce content related to technology and make it available on my
   <a href="https://www.instagram.com/programadoralternativo/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp"  width="35px" style="margin: 15px;" />
   </a>
-  <a href="https://programadoralternativo.medium.com/">
-    <img src="https://user-images.githubusercontent.com/38620899/117998441-4995ae80-b31a-11eb-8b2d-77527cb8f054.png" width="40px" style="margin: 15px;" />
-  </a>
   <a href="mailto:freitasguinativo@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
